@@ -1,0 +1,6 @@
+C:\Users\swimm\source\repos\LeetCodeSolution_TwoSum\LeetCodeSolution_TwoSum\bin\Debug\LeetCodeSolution_TwoSum.exe.config
+C:\Users\swimm\source\repos\LeetCodeSolution_TwoSum\LeetCodeSolution_TwoSum\bin\Debug\LeetCodeSolution_TwoSum.exe
+C:\Users\swimm\source\repos\LeetCodeSolution_TwoSum\LeetCodeSolution_TwoSum\bin\Debug\LeetCodeSolution_TwoSum.pdb
+C:\Users\swimm\source\repos\LeetCodeSolution_TwoSum\LeetCodeSolution_TwoSum\obj\Debug\LeetCodeSolution_TwoSum.csprojAssemblyReference.cache
+C:\Users\swimm\source\repos\LeetCodeSolution_TwoSum\LeetCodeSolution_TwoSum\obj\Debug\LeetCodeSolution_TwoSum.exe
+C:\Users\swimm\source\repos\LeetCodeSolution_TwoSum\LeetCodeSolution_TwoSum\obj\Debug\LeetCodeSolution_TwoSum.pdb
