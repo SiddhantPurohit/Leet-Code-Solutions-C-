@@ -1,0 +1,6 @@
+C:\Users\swimm\source\repos\LeetCodeSolution_ReverseInteger\LeetCodeSolution_ReverseInteger\bin\Debug\LeetCodeSolution_ReverseInteger.exe.config
+C:\Users\swimm\source\repos\LeetCodeSolution_ReverseInteger\LeetCodeSolution_ReverseInteger\bin\Debug\LeetCodeSolution_ReverseInteger.exe
+C:\Users\swimm\source\repos\LeetCodeSolution_ReverseInteger\LeetCodeSolution_ReverseInteger\bin\Debug\LeetCodeSolution_ReverseInteger.pdb
+C:\Users\swimm\source\repos\LeetCodeSolution_ReverseInteger\LeetCodeSolution_ReverseInteger\obj\Debug\LeetCodeSolution_ReverseInteger.csprojAssemblyReference.cache
+C:\Users\swimm\source\repos\LeetCodeSolution_ReverseInteger\LeetCodeSolution_ReverseInteger\obj\Debug\LeetCodeSolution_ReverseInteger.exe
+C:\Users\swimm\source\repos\LeetCodeSolution_ReverseInteger\LeetCodeSolution_ReverseInteger\obj\Debug\LeetCodeSolution_ReverseInteger.pdb
