@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeSolution_PalindromeNumber", "LeetCodeSolution_PalindromeNumber\LeetCodeSolution_PalindromeNumber.csproj", "{840DACD9-5450-4B35-B8F5-98FE6B0C9CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{840DACD9-5450-4B35-B8F5-98FE6B0C9CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840DACD9-5450-4B35-B8F5-98FE6B0C9CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840DACD9-5450-4B35-B8F5-98FE6B0C9CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840DACD9-5450-4B35-B8F5-98FE6B0C9CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FA7B2B8-5A30-41E9-970E-DD793966AE72}
+	EndGlobalSection
+EndGlobal
